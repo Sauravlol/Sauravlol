@@ -1,3 +1,3 @@
- Hi, This is Saurav!
-I’m interested in coding
-I’m currently pursuing B.Tech
+- Hi, This is Saurav!
+- I’m interested in coding
+- I’m currently pursuing B.Tech
